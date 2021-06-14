@@ -1,22 +1,3 @@
-// class personnes {
-//     constructor (nom , prenom , age){
-//         this.nom = nom
-//         this.prenom = prenom
-//         this.age = age
-
-//     }
-
-//     getFullName() {
-//         return 'hello' + ' ' + this.nom + " "+ this.prenom
-//     }
-// }
-
-// let personne = new personnes ('dahri' , 'fatima' , '26')
-// alert(personne.nom);
-
-// console.log(personne.getFullName())
-
-
 class vehicule {
     constructor (marque , model , année , nbporte , nbroue ){
         this.marque = marque
